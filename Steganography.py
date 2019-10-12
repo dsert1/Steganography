@@ -4,7 +4,6 @@
 # Name: Deniz Sert
 # Collaborators: Chris Noga, Miles Kaming-Thanassi
 # Time: 6 hrs
-# Late Days Used: 1
 """    
 
 from PIL import Image
